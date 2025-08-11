@@ -1,14 +1,12 @@
-```
-git clone https://github.com/ogitzdude/Ms-v3
-```
+# MS V3
 
-```
-pip install -r requirements.txt
+1 - git clone https://github.com/ogitzdude/Ms-v3
 
 
-docker build -t ubuntu-22.04-with-tmate .
+2 - pip install -r requirements.txt
 
 
+3 - docker build -t ubuntu-22.04-with-tmate .
 
-python3 v2.py
-```
+
+4 - python3 v2.py
