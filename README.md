@@ -1,5 +1,5 @@
 
-https://github.com/ogitzdude/Ms-v3
+git clone https://github.com/ogitzdude/Ms-v3
 ```
 
 ```
